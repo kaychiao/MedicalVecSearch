@@ -1,6 +1,6 @@
 # MedicalVecSearch
 
-A comprehensive system for processing medical documents (including NCCN guidelines) and creating searchable vector representations using Milvus.
+A comprehensive system for processing medical documents and creating searchable vector representations using Milvus.
 
 ## Overview
 
